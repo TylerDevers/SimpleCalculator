@@ -1,0 +1,11 @@
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/bin/Debug/netcoreapp2.1/simpleCalculator.deps.json
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/bin/Debug/netcoreapp2.1/simpleCalculator.runtimeconfig.json
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/bin/Debug/netcoreapp2.1/simpleCalculator.runtimeconfig.dev.json
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/bin/Debug/netcoreapp2.1/simpleCalculator.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/bin/Debug/netcoreapp2.1/simpleCalculator.pdb
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/Debug/netcoreapp2.1/simpleCalculator.csprojAssemblyReference.cache
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/Debug/netcoreapp2.1/simpleCalculator.csproj.CoreCompileInputs.cache
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/Debug/netcoreapp2.1/simpleCalculator.AssemblyInfoInputs.cache
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/Debug/netcoreapp2.1/simpleCalculator.AssemblyInfo.cs
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/Debug/netcoreapp2.1/simpleCalculator.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/Debug/netcoreapp2.1/simpleCalculator.pdb
