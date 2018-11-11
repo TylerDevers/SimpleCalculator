@@ -35,4 +35,29 @@ Objects and classes
 Methods
     methods are just a group of statements that result in a process.
 
+static vs nonstatic methods
+
+Exceptions and throw keywords
+    we need to handle the exceptions/errors so that the application does not crash. We want to keep the user experience going.
+    Exception is just another class, we can create Exception variables
+    throw an exception by
+        throw new Exception("exception message");
+        
+try/catch statements and handling the exception
+    try {
+        //method code goes here.
+        if (something bad)
+        {
+            throw new Exception("Message");
+        }
+    } catch (Exception ex) {
+        //exceptions thrown will be handled here
+        Console.WriteLine("There was an error: {0}", ex.Message);
+    }
+    
+    Using try/catch handles the exception without crashing the program. Not using try catch will cause the program to crash when the exception is thrown.
+    we can nest try/catches if needed. but we should not have code running outside the the try catch statements
+    we can follow the try/catch with a try/catch/finally 
+        statement{ //free up resources from program}
+    be careful not to erase the stack trace when throwing exceptions, else we remove the message logs.
     
