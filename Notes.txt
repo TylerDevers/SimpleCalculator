@@ -60,4 +60,5 @@ try/catch statements and handling the exception
     we can follow the try/catch with a try/catch/finally 
         statement{ //free up resources from program}
     be careful not to erase the stack trace when throwing exceptions, else we remove the message logs.
+    only try/catch exceptions if you are going to do something with the exception.
     

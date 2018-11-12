@@ -692,13 +692,13 @@
       "projectName": "simpleCalculator",
       "projectPath": "/home/tyler/Repos/LearnCsharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator.csproj",
       "packagesPath": "/home/tyler/.nuget/packages/",
-      "outputPath": "/home/tyler/Repos/LearnCsharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj",
+      "outputPath": "/home/tyler/Repos/LearnCsharp/SimpleCalculator/simpleCalculator/simpleCalculator/simpleCalculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/tyler/.config/NuGet/NuGet.Config"
+        "/home/tyler/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -721,9 +721,8 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
-            "version": "2.1",
+            "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },

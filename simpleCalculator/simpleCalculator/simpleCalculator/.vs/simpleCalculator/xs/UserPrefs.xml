@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="InputConverter.cs">
     <Files>
       <File FileName="Program.cs" Line="9" Column="22" />
-      <File FileName="InputConverter.cs" Line="10" Column="13" />
+      <File FileName="InputConverter.cs" Line="10" Column="1" />
       <File FileName="CalculatorEngine.cs" Line="2" Column="1" />
       <File FileName="../../../Notes.txt" Line="23" Column="49" />
     </Files>
