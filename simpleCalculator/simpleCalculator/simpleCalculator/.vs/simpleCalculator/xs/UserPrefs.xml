@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{000F5A90-3612-4253-ACA7-B27987989024}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../Notes.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InputConverter.cs">
     <Files>
-      <File FileName="Program.cs" Line="9" Column="69" />
-      <File FileName="../../../Notes.txt" Line="63" Column="5" />
+      <File FileName="Program.cs" Line="9" Column="22" />
+      <File FileName="InputConverter.cs" Line="10" Column="13" />
+      <File FileName="CalculatorEngine.cs" Line="2" Column="1" />
+      <File FileName="../../../Notes.txt" Line="23" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

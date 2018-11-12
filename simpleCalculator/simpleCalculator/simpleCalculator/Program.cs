@@ -6,10 +6,11 @@ namespace simpleCalculator
     {
         static void Main(string[] args)
         {
-            Person person1 = new Person(); // testing Person Class  
-            Console.WriteLine(person1.GetAge());
-            person1.SetAge(29);
-            Console.WriteLine(person1.GetAge());
+            InputConverter inputConverter = new InputConverter();
+            CalculatorEngine calculatorEngine = new CalculatorEngine();
+
+            float firstNumber = inputConverter.StringToNumber(Console.ReadLine);
+            float secondNumber = inputConverter.StringToNumber(Console.ReadLine);
         }
     }
 }
