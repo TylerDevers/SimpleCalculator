@@ -1,9 +1,28 @@
 ﻿<Properties StartupConfiguration="{AB03CA24-E4F0-4D3B-893E-095236DE61CE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="simpleCalculator/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCalculator2.Test.Unit/InputConverterTest.cs">
     <Files>
       <File FileName="simpleCalculator/Program.cs" Line="12" Column="49" />
-      <File FileName="simpleCalculator/Person.cs" Line="14" Column="22" />
+      <File FileName="../../Notes.txt" Line="66" Column="27" />
+      <File FileName="SimpleCalculator2.Test.Unit/CalculatorEngineTest.cs" Line="22" Column="70" />
+      <File FileName="SimpleCalculator2.Test.Unit/InputConverterTest.cs" Line="9" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="simpleCalculator" expanded="True">
+            <Node name="SimpleCalculator.Test.Unit" expanded="True">
+              <Node name="SimpleCalculator" expanded="True">
+                <Node name="Test" expanded="True">
+                  <Node name="Unit" expanded="True">
+                    <Node name="InputConverterTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

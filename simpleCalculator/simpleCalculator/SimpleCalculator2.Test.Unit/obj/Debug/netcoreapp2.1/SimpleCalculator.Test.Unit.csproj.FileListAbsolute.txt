@@ -1,0 +1,17 @@
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.csprojAssemblyReference.cache
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.csproj.CoreCompileInputs.cache
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.AssemblyInfoInputs.cache
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.AssemblyInfo.cs
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.deps.json
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.runtimeconfig.json
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.runtimeconfig.dev.json
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.pdb
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/simpleCalculator.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/bin/Debug/netcoreapp2.1/simpleCalculator.pdb
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.csproj.CopyComplete
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.dll
+/home/tyler/Repos/LearnCSharp/SimpleCalculator/simpleCalculator/simpleCalculator/SimpleCalculator2.Test.Unit/obj/Debug/netcoreapp2.1/SimpleCalculator.Test.Unit.pdb

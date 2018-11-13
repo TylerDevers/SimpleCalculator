@@ -62,3 +62,20 @@ try/catch statements and handling the exception
     be careful not to erase the stack trace when throwing exceptions, else we remove the message logs.
     only try/catch exceptions if you are going to do something with the exception.
     
+Unit Tests
+    add new project to root parent object in heirarchy, make it an mstest. this childs a new test project to this parent.
+    reference the class you want to test as a readonly.
+    rename the test appropriately. example test class is:
+    
+        private readonly CalculatorEngine _calculatorEngine = new CalculatorEngine();
+
+            [TestMethod]
+            public void AddsTwoNumbersAndReturnsValidForNonSymbolOperation()
+            {
+                int number1 = 1;
+                int number2 = 2;
+                double result = _calculatorEngine.Calculate("add", number1, number2);
+                Assert.AreEqual(3, result);
+            }
+    
+    
