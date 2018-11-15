@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SimpleCalculator2.Test.Unit/InputConverterTest.cs">
     <Files>
       <File FileName="simpleCalculator/Program.cs" Line="12" Column="49" />
-      <File FileName="../../Notes.txt" Line="66" Column="27" />
-      <File FileName="SimpleCalculator2.Test.Unit/CalculatorEngineTest.cs" Line="22" Column="70" />
-      <File FileName="SimpleCalculator2.Test.Unit/InputConverterTest.cs" Line="9" Column="6" />
+      <File FileName="../../Notes.txt" Line="80" Column="5" />
+      <File FileName="SimpleCalculator2.Test.Unit/CalculatorEngineTest.cs" Line="10" Column="9" />
+      <File FileName="SimpleCalculator2.Test.Unit/InputConverterTest.cs" Line="5" Column="5" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
